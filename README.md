@@ -1,18 +1,18 @@
 ### Hi there 👋
 
 
-<!-- **Hmtgit7/Hmtgit7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Hmtgit7/Hmtgit7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on mern stack development.
+- 🌱 I’m currently learning mern 
+- 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... 
 
 
 <p align="center">
@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/github_skydoves"><img alt="Twitter" src="https://skydoves.github.io/badges/twitter.svg"/></a>
 <a href="https://androiddev.social/@skydoves"><img alt="Mastodon" src="https://skydoves.github.io/badges/mastodon.svg"/></a>
 <a href="https://www.youtube.com/@skydoves"><img alt="YouTube" src="https://skydoves.github.io/badges/dove-youtube.svg"/></a></br></br>
-<a href="https://github.com/skydoves"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=skydoves&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
 </p>
