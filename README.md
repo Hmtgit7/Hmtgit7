@@ -29,7 +29,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hemant-gehlod">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
-    <h3>Website></h3>
   </a>
   <a href="mailto:hmtloharcoding3579@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
