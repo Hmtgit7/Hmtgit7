@@ -21,7 +21,7 @@
 <p align="center">
   <a href="https://hemant-gehlod.netlify.app/#skills-">
 <!--     <img alt="Website" src="https://img.shields.io/website?down_color=inactive&down_message=jooncco.com%2Fprofile&style=flat-square&up_color=9cf&up_message=jooncco.com%2Fprofile&url=https%3A%2F%2Fjooncco.com%2Fprofile%23skills-"> -->
-    <h3>Website</h3>
+    <h3 align="center">Website</h3>
   </a>
 </p>
 
