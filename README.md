@@ -20,14 +20,15 @@
 <h3 align="center">Skills</h3>
 <p align="center">
   <a href="https://hemant-gehlod.netlify.app/#skills-">
-    <img alt="Website" src="https://img.shields.io/website?down_color=inactive&down_message=jooncco.com%2Fprofile&style=flat-square&up_color=9cf&up_message=jooncco.com%2Fprofile&url=https%3A%2F%2Fjooncco.com%2Fprofile%23skills-">
+<!--     <img alt="Website" src="https://img.shields.io/website?down_color=inactive&down_message=jooncco.com%2Fprofile&style=flat-square&up_color=9cf&up_message=jooncco.com%2Fprofile&url=https%3A%2F%2Fjooncco.com%2Fprofile%23skills-"> -->
+    <h3>Website</h3>
   </a>
 </p>
 
 <h3 align="center">Reach Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/hemant-gehlod">
-<!--     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/> -->
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
     <h3>Website></h3>
   </a>
   <a href="mailto:hmtloharcoding3579@gmail.com">
