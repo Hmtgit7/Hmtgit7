@@ -1,4 +1,4 @@
-<p align="center" size="10"> Hi there 👋
+<p align="center" size="100px"> Hi there 👋
 <hr></hr>
 
 <!-- **Hmtgit7/Hmtgit7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
