@@ -13,7 +13,6 @@
   It's <b>Hemant</b><b>Gehlod</b>. <br/>
   <b>2023</b> is the <b>4th</b> year of my career.<br/>
   Hit the <b>Follow</b> button on the left and check my activities you might like.<br/><br/>
-  Current workplace: <a href="https://streamanalyticsai.com/">Stream Analytics AI</a><br/>
   📍 Indore , India(M.P.).
 </p>
 
