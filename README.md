@@ -50,10 +50,8 @@
 
 #
 
-### 📊 Connect With Me
+### 🔗 Connect With Me
 
-<p>
-<!---<h3 align="left">Connect with me:</h3>-->
 <img style="" src="https://komarev.com/ghpvc/?username=hmtgit7&label=Profile%20views&color=0e75b6&style=flat" alt="hmtgit7" width="250px" height="40"/>
 <a href="https://twitter.com/gehlodhemant" target="blank"><img src="https://img.shields.io/twitter/follow/gehlodhemant?logo=twitter&style=for-the-badge" alt="gehlodhemant" width="250px" height="40"/></a><br/>
 <a href="https://dev.to/hemantgehlod02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/hemantgehlod02" height="30" width="40" /></a>
@@ -62,8 +60,6 @@
 <a href="https://stackoverflow.com/users/17023435/hemant-gehlod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17023435/hemant-gehlod" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/hemantgehlod2061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/hemantgehlod2061" height="30" width="40" /></a>
 <a href="https://leetcode.com/hemantacro_100" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/hemantacro_100" height="30" width="40" /></a><br/>
-</p>
-<br />
 
 #
 
@@ -210,3 +206,22 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/@skydoves"><img alt="YouTube" src="https://skydoves.github.io/badges/dove-youtube.svg"/></a></br></br> 
 </p>
 -->
+
+<!----connect with me -->
+<!---
+### 🔗 Connect With Me
+
+<p>
+<h3 align="left">Connect with me:</h3>
+<img style="" src="https://komarev.com/ghpvc/?username=hmtgit7&label=Profile%20views&color=0e75b6&style=flat" alt="hmtgit7" width="250px" height="40"/>
+<a href="https://twitter.com/gehlodhemant" target="blank"><img src="https://img.shields.io/twitter/follow/gehlodhemant?logo=twitter&style=for-the-badge" alt="gehlodhemant" width="250px" height="40"/></a><br/>
+<a href="https://dev.to/hemantgehlod02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/hemantgehlod02" height="30" width="40" /></a>
+<a href="https://twitter.com/gehlodhemant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gehlodhemant" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hemant-gehlod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/hemant-gehlod/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17023435/hemant-gehlod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17023435/hemant-gehlod" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/hemantgehlod2061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/hemantgehlod2061" height="30" width="40" /></a>
+<a href="https://leetcode.com/hemantacro_100" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/hemantacro_100" height="30" width="40" /></a><br/>
+</p>
+<br />
+
+#--->
