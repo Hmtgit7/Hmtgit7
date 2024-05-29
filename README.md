@@ -2,7 +2,7 @@
 # 🏄‍♂️ Hemant Gehlod
 
 **`Full Stack Developer`**
-
+**`Java Developer`**
 ## Hi there 👋
 
 🚀 Full Stack Developer | Java & JavaScript Enthusiast | DevOps Learner | 💻 Crafting cutting-edge software solutions | 🌐 Passionate about building robust and scalable applications. With a strong foundation in Computer Science and Engineering, I excel in both backend and frontend development, leveraging technologies like React, Angular, Spring Boot, and Node.js. Proficient in database management with MySQL, PostgreSQL, and MongoDB. Currently delving into DevOps practices, implementing CI/CD pipelines with Jenkins and GitLab CI/CD. My project portfolio includes innovative solutions such as SocialChitChat, a Full Stack MERN application with personalized recommendation algorithms, and Server Management Application, demonstrating expertise in backend architecture and UI design. Orchestrated the development of the XWIGGY Food Order System, optimizing order processing and enhancing efficiency. Committed to continuous learning, I hold certificates in Computer Networks and Responsive Web Design. Let's connect and innovate together!"
