@@ -170,7 +170,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://img.icons8.com/color/48/000000/launch--v1.png" width="40" height="40"/>
+        <img src="https://img.icons8.com/?size=100&id=H1TKqeNpWLQj&format=png&color=000000" width="40" height="40"/>
         <h3>Working On</h3>
         <ul align="left">
           <li>Java Enterprise Applications</li>
