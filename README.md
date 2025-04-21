@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Hemant%20Gehlod&fontSize=90&color=0:FF057C,100:8D0B93&stroke=B509AC&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Building%20Digital%20Experiences%20That%20Matter&descAlignY=60&descAlign=50" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Hemant%20Gehlod&fontSize=90&color=0:FF057C,100:8D0B93&stroke=B509AC&fontColor=00000&animation=fadeIn&fontAlignY=38&desc=Building%20Digital%20Experiences%20That%20Matter&descAlignY=60&descAlign=50" width="100%">
 </div>
 
 <div align="center">
