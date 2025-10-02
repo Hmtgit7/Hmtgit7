@@ -189,5 +189,3 @@
 <div align="center">
   <p style="font-size: 12px">Made with ❤️ by Hemant Gehlod</p>
 </div>
-
-
