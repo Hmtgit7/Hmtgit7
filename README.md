@@ -46,5 +46,8 @@
 - Email: hmtloharcoding3579@gmail.com
 
 ---
+### 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hmtgit7&layout=compact&hide_border=true)
 
 ⭐ *Always open to collaboration and exciting projects.*
