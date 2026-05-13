@@ -18,7 +18,7 @@
 
 **Languages**
 
-`Java` `JavaScript` `TypeScript` `C++`
+`Java` `JavaScript` `TypeScript` `C++` `Python`
 
 **Frontend**
 
